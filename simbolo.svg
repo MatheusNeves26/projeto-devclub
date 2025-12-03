@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="600" viewBox="0 0 600 600" role="img" aria-label="Símbolo inspirado no café">
+  <circle cx="300" cy="300" r="290" fill="#00704A"/>
+  <circle cx="300" cy="300" r="240" fill="#ffffff"/>
+  <circle cx="300" cy="300" r="190" fill="#00704A"/>
+  <g transform="translate(0, -10)">
+    <path d="M190 360 Q200 280 300 280 Q400 280 410 360 Z" fill="#ffffff"/>
+    <path d="M420 320 A40 40 0 0 1 420 360" stroke="#ffffff" stroke-width="14" fill="none" stroke-linecap="round"/>
+    <ellipse cx="300" cy="375" rx="130" ry="18" fill="rgba(255,255,255,0.12)"/>
+    <g stroke="#ffffff" stroke-width="8" stroke-linecap="round" fill="none" transform="translate(0,-40)">
+      <path d="M250 240 C260 220 290 220 300 240"/>
+      <path d="M320 240 C330 220 360 220 370 240"/>
+      <path d="M280 210 C290 190 320 190 330 210"/>
+    </g>
+  </g>
+  <g fill="#ffffff">
+    <polygon points="120,220 133,260 175,260 141,285 152,325 120,300 88,325 99,285 65,260 107,260" opacity="0.95"/>
+    <polygon points="480,220 493,260 535,260 501,285 512,325 480,300 448,325 459,285 425,260 467,260" opacity="0.95"/>
+  </g>
+  <circle cx="300" cy="300" r="150" fill="none" stroke="#ffffff" stroke-width="6"/>
+  <text x="300" y="520" font-family="Arial, Helvetica, sans-serif" font-size="28" fill="#ffffff" text-anchor="middle">Coffee Badge</text>
+</svg>
